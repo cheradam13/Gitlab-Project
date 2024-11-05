@@ -1,3 +1,6 @@
+<?php
+echo 'AAAAAAAAA';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
